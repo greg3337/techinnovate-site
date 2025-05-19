@@ -134,6 +134,12 @@ section {
     gap: 20px;
 }
 
+#services h2 {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
 .feature, .service-item {
     flex: 1;
     min-width: 250px;
@@ -456,6 +462,10 @@ footer a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+  }
+
+  #services h2 {
+    text-align: center;
   }
 
   .service-item {
