@@ -605,4 +605,8 @@ footer a:hover {
     box-shadow: none !important;
     border: none !important;
   }
+
+  main {
+    background-color: transparent !important;
+  }
 }
