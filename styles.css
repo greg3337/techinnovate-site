@@ -480,7 +480,7 @@ footer a:hover {
     padding: 30px 20px;
     background: url('background.jpg') no-repeat center center/cover;
     color: white;
-    height: 250px;
+    height: auto;
   }
 
   #hero h2 {
@@ -490,6 +490,7 @@ footer a:hover {
 
   #hero p {
     font-size: 1.1rem;
+    margin-bottom: 15px;
   }
 
   .cta-button {
@@ -593,8 +594,7 @@ footer a:hover {
 
   
   #hero .cta-button {
-    margin-top: 15px;
-    margin-bottom: 25px;
+    margin: 15px auto 25px;
     display: block;
   }
 }
