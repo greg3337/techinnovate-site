@@ -599,4 +599,10 @@ footer a:hover {
     margin: 15px auto 25px;
     display: block;
   }
+
+  .service-item {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
 }
