@@ -497,10 +497,6 @@ footer a:hover {
     padding: 12px 20px;
   }
 
-  #hero .cta-button {
-    margin-top: 15px;
-    margin-bottom: 25px;
-  }
   section {
     padding: 20px 10px;
   }
@@ -593,5 +589,12 @@ footer a:hover {
   .social-links img {
     width: 28px;
     height: 28px;
+  }
+
+  
+  #hero .cta-button {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    display: block;
   }
 }
