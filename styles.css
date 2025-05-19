@@ -458,8 +458,9 @@ footer a:hover {
 
   .site-title {
     font-size: 18px;
-    text-align: center;
+    text-align: center !important;
     margin-bottom: 10px;
+    width: 100%;
   }
 
   nav {
