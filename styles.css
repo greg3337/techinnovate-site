@@ -479,7 +479,6 @@ footer a:hover {
     text-align: center;
     padding: 30px 20px;
     background: url('background.jpg') no-repeat center center/cover;
-    color: white;
     height: auto;
   }
 
@@ -493,6 +492,7 @@ footer a:hover {
     font-size: 1.1rem;
     margin-bottom: 15px;
     display: block;
+    color:#0077cc
   }
 
   .cta-button {
